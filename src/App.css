@@ -407,6 +407,10 @@ body {
   font-size: 18px;
   width: 80%;
 }
+.profile-container {
+  padding: 10px;
+  width: 100%;
+}
 #input::placeholder {
   font-size: 18px;
 }
@@ -441,7 +445,8 @@ body {
 
   
   .profile-container {
-    padding: 15px;
+    padding: 10px;
+    width: 100%;
   }
 
   
