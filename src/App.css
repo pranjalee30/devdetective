@@ -485,7 +485,7 @@ body {
   /* Input adjustments for smaller screens */
   #input {
     font-size: 12px;
-    width: 80%;
+    width: 100%;
   }
 
   #input::placeholder {
