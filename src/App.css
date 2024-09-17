@@ -509,7 +509,7 @@ body {
 
   #avatar {
     width: 120px;
-    height:13vh;
+    height:12vh;
   }
 
   
@@ -583,7 +583,7 @@ body {
     opacity: 0.75;
   }
   #avatar {
-    width: 120px;
+    width: 100px;
   }
   
   .profile-stats-wrapper {
